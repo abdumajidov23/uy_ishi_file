@@ -1,0 +1,12 @@
+{
+  "name": "lesson_23",
+  "version": "1.0.0",
+  "main": "create.js",
+  "scripts": {
+    "dev" : "node --watch app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
